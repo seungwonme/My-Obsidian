@@ -1,0 +1,1 @@
+- [ref](https://www.linode.com/docs/guides/use-the-ps-aux-command-in-linux/)

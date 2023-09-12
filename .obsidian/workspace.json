@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "acd811e600559d0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f13211cfa6dbec60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5c00567f1ade337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c062196891068c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d6591607f7c6c5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b344df78128a6b1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a73daec241f6488",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "90e45b71f28416b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "69e0498f48c99853",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2725e16205bf3d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d968c84603a4d49",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "To Do.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e25e5dc5aa9f26a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "To Do.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d98876286394d680",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dd2e03f99e9e2b8a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "To Do.md"
+              }
+            }
+          },
+          {
+            "id": "0a2c3cde938c14e5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4838bf2cc8aa235b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": true,
+      "graph:그래프 뷰 열기": true,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": true,
+      "templates:템플릿 삽입": true,
+      "command-palette:명령어 팔레트 열기": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "a5c00567f1ade337",
+  "lastOpenFiles": [
+    "무제 파일.canvas",
+    "Develop/C/C Language.md",
+    "tools/HotKey.md",
+    "English/Common everyday English expressions.md",
+    "Today.md",
+    "2023-09-12.md",
+    "To Study.md",
+    "To Do.md",
+    "공부할 것들.md",
+    "Technique/Feynman Technique.md",
+    "Technique",
+    "tools/LLDB.md",
+    "Develop/Network/Network_Top_Down/Chapter 1. Computer Networks and the Internet.md",
+    "Motivation/하루에 한 번씩 입사지원하기.md",
+    "Motivation/EO Conference.md",
+    "Motivation",
+    "무제 파일 2.canvas",
+    "무제 파일 1.canvas",
+    "tools/Obsidian.md",
+    "tools/VSCode.md",
+    "Develop/C/func/dup.md",
+    "Develop/Linux (Unix)/lsof.md",
+    "Develop/Linux (Unix)/time.md",
+    "Develop/Linux (Unix)/ulimit.md",
+    "Develop/C/func/open.md",
+    "Develop/C/콘솔에서 색상을 써보자.md",
+    "Develop",
+    "English",
+    "Develop/Operating_System/OS_Dino",
+    "Develop/Operating_System/OS_Three_Easy_Pieces",
+    "Develop/Network/Network_Top_Down",
+    "Develop/Network",
+    "Develop/CSAPP/천천히 나아가자.md",
+    "Develop/Design_Patton/디자인 패턴.md",
+    "Develop/Design_Patton",
+    "Develop/Linux (Unix)/awk.md",
+    "Develop/Linux (Unix)/Redirction.md",
+    "Develop/Compiler/Lecture",
+    "AttachedFiles/Screenshot 2023-08-27 at 16.50.13.png",
+    "AttachedFiles/Screenshot 2023-08-27 at 16.50.04.png",
+    "AttachedFiles/Screenshot 2023-08-27 at 16.49.34.png",
+    "AttachedFiles/Screenshot 2023-08-27 at 16.49.02.png",
+    "AttachedFiles/Screenshot 2023-08-27 at 16.48.37.png",
+    "AttachedFiles/Screenshot 2023-08-27 at 16.48.13.png",
+    "AttachedFiles/Screenshot 2023-08-27 at 16.47.52.png",
+    "AttachedFiles/Screenshot 2023-08-27 at 16.47.36.png",
+    "AttachedFiles/Screenshot 2023-08-27 at 16.47.20.png",
+    "AttachedFiles/Screenshot 2023-08-27 at 16.46.35.png"
+  ]
+}

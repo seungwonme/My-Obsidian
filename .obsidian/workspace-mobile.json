@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "1eefdd90f6c91dae",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab59efe8dd4b3504",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bab5dc6e9022281",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "359a4e8ababe6ad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tools/Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "442f6a13821d6989",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8c0bd7fa18110dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Common everyday English expressions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "840c3974fd40a774",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8e55e0e3b61dd089",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "422ed9ccfa981793",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "258c5760b809bcd6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "87d9bca5b21bc910",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f0c2b9bb9c212c6f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9fbe734c729ae074",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "English/Common everyday English expressions.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "04ce80e13d29b7e3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "English/Common everyday English expressions.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "aa86fd27001a1329",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "English/Common everyday English expressions.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c8c0bd7fa18110dd",
+  "lastOpenFiles": [
+    "Develop/C/콘솔에서 색상을 써보자.md",
+    "하루에 한 번씩 입사지원하기.md",
+    "Compiler/AST.md",
+    "C/func/access.md",
+    "04. Lexical Analysis.md",
+    "개발자 영어하기 !.md",
+    "C/func/execve.md",
+    "C/func/dup.md",
+    "tools/Obsidian.md",
+    "Operating System",
+    "CS",
+    "AttachedFiles/image-asset.png",
+    "AttachedFiles/Screenshot 2023-08-14 at 23.38.30.png",
+    "AttachedFiles/little_endian_vs_big_endian.png",
+    "AttachedFiles/1_wbYRk65-lnwsWYSFJ656xw.png",
+    "AttachedFiles",
+    "TCP_IP_SOCKET/Chapter 03. 주소체계와 데이터 정렬.md",
+    "TCP_IP_SOCKET/Chapter 02. 소켓의 프로토콜과 그에 따른 데이터 전송 특성.md",
+    "TCP_IP_SOCKET/Chapter 01. 네트워크 프로그래밍과 소켓의 이해.md",
+    "TCP_IP_SOCKET",
+    "C/이중 free를 막는 방법 !.md",
+    "C/콘솔에서 색상을 써보자.md",
+    "C/C Language.md",
+    "C",
+    "CSAPP",
+    "Linux (Unix)",
+    "공부할 것들.md",
+    "tools/HotKey.md",
+    "tools/VSCode.md",
+    "tools"
+  ]
+}
