@@ -37,39 +37,3 @@
 | ⌘ + ⇧ + B  | 북마크        |
 | ⌘ + ⇧ + L  | 찾아 바꾸기     |
 | ⌘ + ⇧ + V  | 첨부 파일      |
-
-> [!info] info
-
-> [!todo] todo
-
-> [!tip] tip
-> `hint`, `important`
-
-> [!success] success
->  `check`, `done`
-
-> [!question] question
->  `help`, `faq`
-
-> [!warning] warning
->  `caution`, `attention`
-
-> [!failure] failure
->  `fail`, `missing`
-
-> [!danger] danger
->  `error`
-
-> [!bug] bug
-
-> [!example] example
-
-> [!quote] quote
-
-- ! 
-- ? 
-- & 
-- $ 
-- @ 
-- ~ 
-- % 
