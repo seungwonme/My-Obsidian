@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f13211cfa6dbec60",
+        "id": "f4142577826db814",
         "type": "tabs",
         "children": [
           {
-            "id": "a5c00567f1ade337",
+            "id": "03404fc6dbe36d73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do.md",
-                "mode": "source",
+                "file": "tools/LLDB.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do.md",
+                "file": "tools/LLDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Do.md",
+                "file": "tools/LLDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do.md"
+                "file": "tools/LLDB.md"
               }
             }
           },
@@ -143,6 +143,16 @@
             "state": {
               "type": "calendar",
               "state": {}
+            }
+          },
+          {
+            "id": "aaef082446c01b03",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ]
@@ -163,22 +173,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5c00567f1ade337",
+  "active": "03404fc6dbe36d73",
   "lastOpenFiles": [
-    "무제 파일.canvas",
-    "Develop/C/C Language.md",
-    "tools/HotKey.md",
+    "Develop/Network/Network_Top_Down/Chapter 1. Computer Networks and the Internet.md",
+    "Develop/Design_Patton/seongmik의 가르침.md",
+    "Develop/CSAPP/slowly.md",
+    "Technique/Feynman Technique.md",
     "English/Common everyday English expressions.md",
+    "Develop/Linux (Unix)/Command/awk.md",
     "Today.md",
-    "2023-09-12.md",
+    "Develop/Linux (Unix)/Command",
     "To Study.md",
     "To Do.md",
+    "무제 파일.canvas",
+    "Motivation/하루에 한 번씩 입사지원하기.md",
+    "Develop/C/C Language.md",
+    "tools/HotKey.md",
+    "2023-09-12.md",
     "공부할 것들.md",
-    "Technique/Feynman Technique.md",
     "Technique",
     "tools/LLDB.md",
-    "Develop/Network/Network_Top_Down/Chapter 1. Computer Networks and the Internet.md",
-    "Motivation/하루에 한 번씩 입사지원하기.md",
     "Motivation/EO Conference.md",
     "Motivation",
     "무제 파일 2.canvas",
@@ -186,9 +200,9 @@
     "tools/Obsidian.md",
     "tools/VSCode.md",
     "Develop/C/func/dup.md",
-    "Develop/Linux (Unix)/lsof.md",
-    "Develop/Linux (Unix)/time.md",
-    "Develop/Linux (Unix)/ulimit.md",
+    "Develop/Linux (Unix)/Command/lsof.md",
+    "Develop/Linux (Unix)/Command/time.md",
+    "Develop/Linux (Unix)/Command/ulimit.md",
     "Develop/C/func/open.md",
     "Develop/C/콘솔에서 색상을 써보자.md",
     "Develop",
@@ -197,12 +211,8 @@
     "Develop/Operating_System/OS_Three_Easy_Pieces",
     "Develop/Network/Network_Top_Down",
     "Develop/Network",
-    "Develop/CSAPP/천천히 나아가자.md",
-    "Develop/Design_Patton/디자인 패턴.md",
     "Develop/Design_Patton",
-    "Develop/Linux (Unix)/awk.md",
-    "Develop/Linux (Unix)/Redirction.md",
-    "Develop/Compiler/Lecture",
+    "Develop/Linux (Unix)/Command/Redirction.md",
     "AttachedFiles/Screenshot 2023-08-27 at 16.50.13.png",
     "AttachedFiles/Screenshot 2023-08-27 at 16.50.04.png",
     "AttachedFiles/Screenshot 2023-08-27 at 16.49.34.png",
