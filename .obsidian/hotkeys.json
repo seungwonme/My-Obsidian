@@ -8,15 +8,6 @@
       "key": "O"
     }
   ],
-  "app:toggle-right-sidebar": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "\\"
-    }
-  ],
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
@@ -125,6 +116,24 @@
         "Shift"
       ],
       "key": "C"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "\\"
+    }
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "\\"
     }
   ]
 }
