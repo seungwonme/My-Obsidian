@@ -1,15 +1,15 @@
-#Network 
+#Network
 
-- [[#Network Programming|Network Programming]]
-		- [[#server|server]]
-		- [[#client|client]]
-- [[#Linux file control|Linux file control]]
-	- [[#Linux file control#open|open]]
-	- [[#Linux file control#close|close]]
-	- [[#Linux file control#write|write]]
-	- [[#Linux file control#read|read]]
-- [[#Question|Question]]
-- [[#Series|Series]]
+- [Network Programming](#network-programming)
+	- [server](#server)
+	- [client](#client)
+- [Linux file control](#linux-file-control)
+	- [open](#open)
+	- [close](#close)
+	- [write](#write)
+	- [read](#read)
+- [Question](#question)
+- [Series](#series)
 
 ## Network Programming
 
@@ -47,13 +47,13 @@ int connect(int sockfd, struct sockaddr *serv_addr, socklen_t addrlen) // 성공
 
 ```
 
-#### server
+### server
 
 1. 소켓 생성                          -> socket
 2. IP주소와 PORT번호 할당 -> bind
 3. 연결요청 가능상태로 변경 -> listen
 4. 연결요청에 대한 수락        -> accept
-#### client
+### client
 
 1. 소켓 생성 -> socket
 2. 연결 요청 -> connect
@@ -124,7 +124,7 @@ ssize_t write(int fd, const void *buf, size_t nbyte); // 성공 시 전달한 �
 ssize_t read(int fd, void *buf, size_t nbytes); // 성공 시 수신한 바이트 수(EOF이면 0), 실패 시 -1 반환
 ```
 
-## Question
+## Question
 
 1. 네트워크 프로그래밍에서 소켓이 담당하는 역할은 무엇인가? 그리고 소켓이라는 이름이 붙은 이유는 어디에 있는가?
 2. 서버 프로그램에서는 소켓 생성 이후에 listen 함수와 accept 함수를 차례대로 호출한다. 그렇다면 이들의 역할은 각각 무엇인지 비교해서 설명하라.

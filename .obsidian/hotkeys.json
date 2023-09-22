@@ -136,6 +136,15 @@
       "key": "\\"
     }
   ],
+  "terminal:open-terminal.integrated.current": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "J"
+    }
+  ],
   "terminal:open-terminal.select.": [
     {
       "modifiers": [
